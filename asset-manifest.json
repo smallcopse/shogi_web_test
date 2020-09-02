@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shogi_web_test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/shogi_web_test/static/js/main.a47cc246.chunk.js",
+    "main.js.map": "/shogi_web_test/static/js/main.a47cc246.chunk.js.map",
+    "runtime-main.js": "/shogi_web_test/static/js/runtime-main.37435011.js",
+    "runtime-main.js.map": "/shogi_web_test/static/js/runtime-main.37435011.js.map",
+    "static/js/2.7e7d0e48.chunk.js": "/shogi_web_test/static/js/2.7e7d0e48.chunk.js",
+    "static/js/2.7e7d0e48.chunk.js.map": "/shogi_web_test/static/js/2.7e7d0e48.chunk.js.map",
+    "index.html": "/shogi_web_test/index.html",
+    "precache-manifest.64b9482c80cdf205266284e70d065d6d.js": "/shogi_web_test/precache-manifest.64b9482c80cdf205266284e70d065d6d.js",
+    "service-worker.js": "/shogi_web_test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/shogi_web_test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7e7d0e48.chunk.js.LICENSE.txt": "/shogi_web_test/static/js/2.7e7d0e48.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/shogi_web_test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37435011.js",
+    "static/js/2.7e7d0e48.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a47cc246.chunk.js"
+  ]
+}
